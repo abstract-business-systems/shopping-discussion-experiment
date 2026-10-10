@@ -51,7 +51,18 @@ Use a 10-point social-proof score:
 
 A candidate should normally score at least 7/10 before expert-review research begins.
 
-## Step 3: Validate the product page and exact SKU
+## Step 3: Summarize user reviews without overclaiming
+
+Record a short qualitative summary for each seller/listing, covering:
+
+- repeated positives;
+- repeated negatives;
+- recent complaints;
+- whether the evidence came from visible written reviews or only a rating/count snapshot.
+
+Keep the summary tied to the source and timestamp. Do not write “users say” when only an average rating is available. Use wording such as “visible snippets mentioned…” or “review text was not captured.” Separate the same product into separate rows for different marketplaces or materially different sellers/listings.
+
+## Step 4: Validate the product page and exact SKU
 
 Confirm:
 
@@ -65,7 +76,7 @@ Confirm:
 
 Do not infer eSIM from an overseas review. Do not infer microSD support from a generic family name.
 
-## Step 4: Use expert reviews to explain the rating
+## Step 5: Use expert reviews to explain the rating
 
 After social proof clears the threshold, consult at least two independent sources, ideally:
 
@@ -75,7 +86,7 @@ After social proof clears the threshold, consult at least two independent source
 
 Manufacturer benchmark claims can be noted, but they should not be treated as independent evidence. Prefer sustained performance, battery runtime, throttling, display accuracy, camera consistency, and update/service history over a single benchmark number.
 
-## Step 5: Apply a weighted decision score
+## Step 6: Apply a weighted decision score
 
 Suggested weights for a phone:
 
@@ -89,7 +100,7 @@ Suggested weights for a phone:
 
 If a true must-have fails, reject the product regardless of score.
 
-## Step 6: Solve with accessories where sensible
+## Step 7: Solve with accessories where sensible
 
 A phone does not need factory Gorilla Glass to accept a good external screen protector. For this purchase:
 
@@ -100,12 +111,12 @@ A phone does not need factory Gorilla Glass to accept a good external screen pro
 
 This means built-in Gorilla Glass should be treated as a durability bonus, not an absolute requirement.
 
-## Step 7: Make a price-tier recommendation
+## Step 8: Make a price-tier recommendation
 
 - **₹20,000–₹25,000:** strong value and social proof; eSIM and premium durability are usually compromises.
 - **₹28,000–₹35,000:** better balance of build, performance and popularity; still check eSIM by SKU.
 - **₹38,000–₹50,000:** realistic range for a highly popular, well-supported phone with eSIM and a strong IP rating, such as Galaxy S24 FE or Pixel 9a-class devices, subject to exact India specifications and current pricing.
 
-## Step 8: Recheck shortly before purchase
+## Step 9: Recheck shortly before purchase
 
 Marketplace prices, sellers, stock, reviews and bundles change. Recheck the final candidate on the purchase day, and save a screenshot or PDF of the listing showing model number, price, seller and warranty.

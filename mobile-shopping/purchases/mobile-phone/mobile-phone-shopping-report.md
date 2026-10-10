@@ -85,6 +85,17 @@ MicroSD expansion is the one requirement that generally disappears as the phone 
 
 ## Social-proof-first method
 
+The evidence file now keeps separate rows for Amazon and Flipkart, and records the seller/listing when it was visible. Marketplace counts should not be merged: the same phone can show very different rating totals across platforms and variants.
+
+The TSV also includes a qualitative user-review summary. Examples from the captured snippets:
+
+- Galaxy F36: display and One UI were praised, while battery endurance and fast drain appeared as recurring cautions.
+- Galaxy M17: display, everyday performance and value were praised, while heating and battery drain appeared in negative snippets.
+- Galaxy S24 FE: camera, processor and battery were praised, while weight was a caution.
+- Nord CE5 and Edge 60 Fusion: ratings were captured, but written-review snippets were not captured in the search snapshot; those need a product-page review pass before purchase.
+
+These are directional summaries of visible evidence, not a statistically complete sentiment analysis.
+
 1. **Filter for popularity first:** prefer at least 4.2 stars and 500+ ratings; on Flipkart, record both the Ratings and Reviews counts.
 2. **Inspect recurring user complaints:** heating, battery drain, display lines, network problems, camera failures, and service-centre issues matter more than isolated one-star reviews.
 3. **Confirm the exact SKU:** eSIM, microSD, RAM, storage, warranty and seller can vary by region and listing.
