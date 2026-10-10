@@ -11,7 +11,9 @@ Thumbs.db
 *.temp
 *.log
 /tmp/
-tmp/
+tmp/*
+!tmp/
+!tmp/mobile-shopping-handoff.md
 
 # Browser/clipboard dumps and generated local captures
 clip.txt
