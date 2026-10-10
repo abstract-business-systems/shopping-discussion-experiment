@@ -37,7 +37,7 @@ A protector helps with scratches and minor impacts, but it does not make a phone
 - Social proof: roughly **4.2–4.3/5**, with listings ranging from about 128 to 1K ratings
 - Strengths: official Motorola positioning includes IP68/IP69 and MIL-STD-810H testing; strong display, battery and performance
 - Why buy: best physical-durability story in the shortlist
-- Be careful about: curved display, third-party seller risk at the low price, and unclear India-SKU eSIM/microSD details
+- Be careful about: curved display, third-party seller risk at the low price, and India-market eSIM uncertainty; do not count this as an eSIM phone without checking the exact unit
 - Best for: someone willing to raise the budget to about ₹30,000 for a stronger build and more performance
 
 ### Option 4 — Best “covers nearly everything” higher-budget option: Samsung Galaxy S24 FE
@@ -46,8 +46,16 @@ A protector helps with scratches and minor impacts, but it does not make a phone
 - Social proof: **4.5/5 from 77,805 ratings and 6,539 reviews** on Flipkart; Amazon also showed 4.4/5 on listings with lower visible counts
 - Strengths: mainstream Samsung support, IP68, premium build, strong display/cameras, mature software, high user-review volume
 - Why buy: the most balanced higher-budget option for popularity, durability, support, travel suitability and overall confidence
-- Be careful about: no microSD expansion; confirm eSIM on the exact Indian model before buying; older-generation value may change as newer models are discounted
+- Be careful about: no microSD expansion; eSIM is supported by the S24 FE family, but verify the Add eSIM option on the exact Indian unit and carrier compatibility
 - Best for: a stable long-term phone where popularity and build confidence matter more than strict budget
+
+## Lower-cost eSIM alternative: Google Pixel 7a
+
+- Observed price: approximately **₹29,999** on Amazon listings
+- Social proof: relatively weak current sample, around 3.4–3.9/5 with only tens of visible ratings on the surfaced listings
+- Strengths: eSIM-friendly Pixel platform, clean software, strong camera experience
+- Be careful about: older hardware, lower battery/durability value than newer phones, and weak current marketplace social proof
+- Best for: eSIM at the lowest practical price, only if bought from an authorised seller with valid warranty
 
 ## eSIM-first alternative: Google Pixel 9a
 
@@ -105,10 +113,11 @@ These are directional summaries of visible evidence, not a statistically complet
 
 ## Current decision
 
-- If staying below ₹25,000 and prioritising social proof: **Samsung Galaxy F36 6/128**, subject to stock and exact-SKU checks.
+- If staying below ₹25,000 and prioritising social proof: **Samsung Galaxy F36 6/128**, subject to stock and exact-SKU checks, but without eSIM.
 - If staying below ₹25,000 and prioritising battery/performance: **OnePlus Nord CE5 8/128**, if stock returns and eSIM is optional.
-- If spending around ₹30,000 for durability: **Motorola Edge 60 Fusion**, only from a verified Indian seller with manufacturer warranty.
-- If spending around ₹40,000 for the most complete balance: **Samsung Galaxy S24 FE**, after confirming eSIM on the Indian SKU.
+- If eSIM is essential at the lowest practical budget: **Pixel 7a around ₹30,000**, accepting older hardware and weaker current social proof.
+- If spending around ₹30,000 for durability: **Motorola Edge 60 Fusion**, only from a verified Indian seller with manufacturer warranty—and do not assume India eSIM.
+- If spending around ₹40,000 for the most complete balance: **Samsung Galaxy S24 FE**, after checking the Add eSIM option on the Indian SKU.
 - If eSIM is non-negotiable and budget can reach ₹50,000: **Google Pixel 9a**.
 
 ## Marketplace popularity links

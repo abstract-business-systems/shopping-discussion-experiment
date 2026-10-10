@@ -31,6 +31,8 @@ Research date: 2026-10-10 (the marketplace pages returned this date context; pri
 - [GSMArena phone finder/spec database](https://www.gsmarena.com/)
 - [Notebookcheck smartphone reviews](https://www.notebookcheck.net/Smartphone-Reviews.4276.0.html)
 - [91mobiles reviews](https://www.91mobiles.com/reviews/)
+- [Android Authority: Galaxy S24 FE eSIM support](https://www.androidauthority.com/samsung-galaxy-s24-fe-esim-3482749/)
+- [Samsung India: Galaxy eSIM and supported carriers](https://www.samsung.com/in/support/mobile-devices/galaxy-esim-and-supported-network-carriers/)
 
 ## Shortlist observations
 
@@ -120,11 +122,11 @@ Both marketplaces provide useful popularity-oriented entry points, but they are 
 
 ## Interpretation
 
-- **Best social-proof/value direction:** Samsung Galaxy F36 6/128, if it is in stock and the exact seller/warranty are acceptable.
-- **Best sub-₹25k performance/popularity direction:** OnePlus Nord CE5 8/128, if it returns to stock; eSIM and microSD remain unconfirmed.
-- **Best mainstream value alternative:** Samsung Galaxy M17 6/128, with lower review volume but strong enough evidence and lower risk.
-- **Best higher-budget complete balance:** Samsung Galaxy S24 FE, with the strongest popularity signal; confirm eSIM and accept no microSD.
-- **Best hardware durability signal:** Motorola Edge 60 Fusion, but only at a verified price and seller; the Flipkart price snapshot was above budget.
+- **Best social-proof/value direction:** Samsung Galaxy F36 6/128, if it is in stock and the exact seller/warranty are acceptable—but treat the India model as not eSIM-qualified.
+- **Best sub-₹25k performance/popularity direction:** OnePlus Nord CE5 8/128, if it returns to stock; eSIM remains unconfirmed and should be treated as absent.
+- **Best affordable eSIM direction:** Pixel 7a listings were around ₹29,999, but it is older hardware with a small/weak current review sample; only consider it as a sale option.
+- **Best higher-budget complete balance:** Samsung Galaxy S24 FE, with the strongest popularity signal and confirmed eSIM support at the family level; verify the Add eSIM option on the exact India unit and accept no microSD.
+- **Best hardware durability signal:** Motorola Edge 60 Fusion, but do not count it as an India eSIM phone without exact-unit confirmation; the Flipkart price snapshot was above budget.
 
 ## Checks before checkout
 
