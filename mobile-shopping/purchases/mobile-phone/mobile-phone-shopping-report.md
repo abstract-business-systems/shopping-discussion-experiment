@@ -100,6 +100,11 @@ MicroSD expansion is the one requirement that generally disappears as the phone 
 - If spending around ₹40,000 for the most complete balance: **Samsung Galaxy S24 FE**, after confirming eSIM on the Indian SKU.
 - If eSIM is non-negotiable and budget can reach ₹50,000: **Google Pixel 9a**.
 
+## Marketplace popularity links
+
+- [Amazon Bestsellers: Electronics/mobile category](https://www.amazon.in/gp/bestsellers/electronics/1389401031)
+- [Flipkart mobiles sorted by popularity](https://www.flipkart.com/mobiles/pr?sid=tyy%2C4io&sort=popularity)
+
 ## Marketplace links
 
 - [Amazon: Samsung Galaxy M17 5G](https://www.amazon.in/s?k=Samsung+Galaxy+M17+5G)

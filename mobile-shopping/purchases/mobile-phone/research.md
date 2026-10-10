@@ -12,6 +12,8 @@ Research date: 2026-10-10 (the marketplace pages returned this date context; pri
 - [Amazon search: Nothing Phone (3a)](https://www.amazon.in/s?k=Nothing+Phone+3a)
 - [Amazon search: Google Pixel 8a](https://www.amazon.in/s?k=Google+Pixel+8a)
 - [Amazon search: Samsung Galaxy A36 5G](https://www.amazon.in/s?k=Samsung+Galaxy+A36+5G)
+- [Amazon Bestsellers: Electronics/mobile category](https://www.amazon.in/gp/bestsellers/electronics/1389401031)
+- [Flipkart mobiles sorted by popularity](https://www.flipkart.com/mobiles/pr?sid=tyy%2C4io&sort=popularity)
 - [Flipkart search: Motorola Edge 60 Fusion](https://www.flipkart.com/search?q=Motorola%20Edge%2060%20Fusion)
 - [Flipkart search: Google Pixel 8a](https://www.flipkart.com/search?q=Google%20Pixel%208a)
 - [Flipkart search: Google Pixel 9a](https://www.flipkart.com/search?q=Google%20Pixel%209a)
@@ -106,6 +108,15 @@ The earlier Amazon-only snapshot understated the popularity of several phones. W
 2. **Galaxy F36** for a popular Samsung value option with expandable storage shown on Flipkart.
 3. **OnePlus Nord CE5** for a popular performance/battery option under ₹25,000 when available.
 4. **Galaxy M17** as a lower-risk value alternative with smaller but still meaningful social proof.
+
+## Marketplace popularity navigation
+
+Both marketplaces provide useful popularity-oriented entry points, but they are not identical:
+
+- Amazon has a dedicated **Amazon Bestsellers** page, described as products popular by sales and updated frequently. Its ranking mixes phones with chargers, accessories, wearables and other electronics, so it needs category filtering.
+- Amazon search results also expose **Amazon's Choice**, “Best seller,” rating counts, and recent purchase signals. These are useful discovery clues, not independent quality certifications.
+- Flipkart provides a mobiles page with an explicit **Sort By → Popularity** control and exposes separate rating and written-review counts. This is better for the user's social-proof-first workflow because ratings and reviews can be recorded separately.
+- Popularity rankings can be distorted by colour, RAM/storage variant, availability, discounts and seller. Record the exact variant and timestamp.
 
 ## Interpretation
 
