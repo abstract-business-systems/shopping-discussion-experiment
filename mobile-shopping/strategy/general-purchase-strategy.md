@@ -25,7 +25,7 @@ For this phone purchase:
 For each candidate, collect:
 
 1. Average user rating.
-2. Number of ratings/reviews.
+2. Number of ratings and number of written reviews as separate fields (platforms such as Flipkart expose both).
 3. Recent review trend, if visible.
 4. Number sold or bought recently, when the marketplace exposes it.
 5. Seller identity, warranty, and return terms.
@@ -36,7 +36,7 @@ For each candidate, collect:
 - Treat **4.0–4.19** as acceptable only when there are at least 1,000 ratings and the product is otherwise a strong fit.
 - Treat fewer than 200 ratings as weak evidence, even if the average is 4.5.
 - Never compare raw star ratings across unrelated categories; compare phones with phones, chargers with chargers, and so on.
-- Weight review count and rating together. A 4.3 rating from 2,000 reviews is usually more informative than 4.6 from 40 reviews.
+- Weight rating count and written-review count together. A 4.3 rating from 12,000 ratings and 1,000 written reviews is stronger social proof than 4.6 from 40 ratings. Do not merge Amazon rating counts and Flipkart rating/review counts without recording the platform.
 - Look for recurring negatives: heating, battery degradation, network drops, camera fogging, green-line/display problems, service-centre difficulty, and seller/warranty complaints.
 
 ### Simple social-proof score
