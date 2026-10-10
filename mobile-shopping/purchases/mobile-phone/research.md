@@ -128,6 +128,20 @@ Both marketplaces provide useful popularity-oriented entry points, but they are 
 - **Best higher-budget complete balance:** Samsung Galaxy S24 FE, with the strongest popularity signal and confirmed eSIM support at the family level; verify the Add eSIM option on the exact India unit and accept no microSD.
 - **Best hardware durability signal:** Motorola Edge 60 Fusion, but do not count it as an India eSIM phone without exact-unit confirmation; the Flipkart price snapshot was above budget.
 
+## Cost-effective recheck with eSIM removed
+
+A fresh Amazon/Flipkart pass added two stronger value candidates:
+
+- **Motorola G57 Power 5G 8/128:** Flipkart showed 4.4/5 from 57,889 ratings and 4,164 reviews at ₹21,999; Amazon showed 4.2/5 with roughly 978–1.2K ratings and 5K+ bought recently. It has a 7000mAh battery and strong popularity, but uses an LCD and has a less conservative software/support story than Samsung.
+- **Samsung Galaxy A17 5G 6/128:** Flipkart showed 4.3/5 from 2,761 ratings and 244 reviews at about ₹22,660. It offers Super AMOLED, Gorilla Glass Victus and expandable storage shown up to 2TB, but its Exynos 1330 and camera setup are less performance-oriented than the F36.
+
+### Revised value ranking
+
+1. **Samsung Galaxy F36 6/128** — best all-rounder if battery feedback is acceptable and stock is available.
+2. **Motorola G57 Power 8/128** — best battery/popularity/price combination.
+3. **Samsung Galaxy A17 6/128** — best Samsung display/protection option, with lower performance.
+4. **OnePlus Nord CE5 8/128** — potentially best performance/battery, but unavailable in the captured Flipkart snapshot.
+
 ## Checks before checkout
 
 1. Confirm exact model number, RAM/storage, SIM tray layout, eSIM support, and whether a microSD card is supported.

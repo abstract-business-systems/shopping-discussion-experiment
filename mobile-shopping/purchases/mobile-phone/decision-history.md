@@ -12,10 +12,11 @@ This log records how the decision process changed as constraints were clarified.
 | 2026-10-11 | Add seller/listing details and summaries of what users liked and disliked. | Added `seller_or_listing` and `user_review_summary` columns. | Qualitative summaries are now explicitly tied to visible review evidence and timestamp. |
 | 2026-10-11 | Question whether Galaxy F36 has eSIM; find the minimum-priced eSIM phone that also satisfies the important criteria. | Rechecked model-specific eSIM evidence and separated eSIM-qualified, eSIM-uncertain and non-eSIM options. | F36 should not be counted as eSIM; the lowest practical eSIM direction is an older Pixel 7a around ₹30,000, while the stronger all-round option is Galaxy S24 FE around ₹40,000. |
 | 2026-10-11 | Current decision point: determine whether the budget should cross ₹30,000 based on the minimum credible eSIM option. | Keep eSIM as a separate decision gate rather than weakening the other reliability/popularity criteria. | Under ₹25,000: choose a non-eSIM value phone. Around ₹30,000: Pixel 7a is possible but compromised. Around ₹40,000: S24 FE is the first strong all-round eSIM option. |
+| 2026-10-11 | Drop eSIM from the requirements and prioritize cost-effectiveness. | Re-ran Amazon/Flipkart value search while keeping stability, popularity, 6–8GB/128GB, warranty, durability and review evidence important. | F36 remains the best all-rounder; Motorola G57 Power is the strongest battery/popularity value; Samsung A17 is the display/protection alternative; Nord CE5 is a strong but stock-limited performance option. |
 
 ## Current one-line summary
 
-**The process moved from a strict under-₹25k specification search to a social-proof-first, evidence-preserving comparison; built-in Gorilla Glass became optional because a protector can be added, while eSIM remains the main constraint that may justify moving from the ₹20k–₹25k tier to approximately ₹40k.**
+**The process moved from a strict under-₹25k specification search to a social-proof-first, evidence-preserving comparison; built-in Gorilla Glass became optional because a protector can be added, eSIM was tested as a possible budget escalator, and then eSIM was dropped so the decision can return to cost-effective under-₹25k phones.**
 
 ## Outstanding questions to confirm
 
