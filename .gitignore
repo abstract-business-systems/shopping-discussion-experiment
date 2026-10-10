@@ -1,0 +1,35 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Runtime and temporary artifacts
+*.tmp
+*.temp
+*.log
+/tmp/
+tmp/
+
+# Browser/clipboard dumps and generated local captures
+clip.txt
+*.html.saved
+screenshots/
+
+# Python/tool caches
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Build artifacts
+build/
+dist/
+coverage/
+node_modules/
