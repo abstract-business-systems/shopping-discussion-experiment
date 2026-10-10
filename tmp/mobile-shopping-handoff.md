@@ -62,6 +62,24 @@ The latest round added G57 Power and Galaxy A17 Amazon/Flipkart evidence to `evi
 
 After updating the strategy for this handoff, create a new commit before continuing.
 
+## Session state as of 2026-10-11 ~05:50 IST
+
+- Phone decision finalised to a call between **Samsung F36 6/128 @ ₹21,999** (display/OIS/support), **Motorola G57 Power 8/128 @ ₹21,999** (battery/RAM; LCD, no OIS), and **Samsung S23 8/128 @ ₹24,999** (flagship clearance; small battery). The user will make the final call.
+- Nearby alternatives documented: M36 (₹22,400, 1 left), A17 (₹22,660), A36 (₹25,999).
+- Last two sweeps found **no new** in-band trusted-brand options (confirmed honestly).
+- Brand exclusions expanded (Xiaomi/BBK families incl. OnePlus — user to confirm OnePlus reinstatement); Wi-Fi-through-walls robustness added as a requirement.
+- **Driver status:** capture (som/vision/ax) fails with `os error 2` even after upgrading cua-driver 0.30.4 → 0.34.1 (scaffold binary at /shared/store/ai-scaffold/pi/bin/cua-driver now symlinked to ~/.cua-driver/packages/current; backup at /tmp/cua-driver-0.30.4.bak). Window listing, focus, foreground typing, launch_app all work. Vision-capable classifier models exist in pi (e.g. openai/gpt-6-luna) but the blocker is producing the screenshot, not analysing it.
+
+## New task requested (for next session)
+
+User has an exam tomorrow and will return tomorrow evening. They asked about creating a **short video (3–4 seconds)** related to **optimizing website content**. Interpretation is uncertain — clarify first whether they want:
+
+1. a demo/explainer clip showing how to optimize website content, or
+2. a short promo video for a website, or
+3. something else.
+
+Capability answer given: true text-to-video models are uncertain in this environment; the reliable route is generating a few images (pi image models via codemode `models.generateImages`) and stitching them into a 3–4s MP4 with ffmpeg, or a screen-recording-style clip. Confirm the exact goal before generating.
+
 ## Next suggested action
 
 Run one final value comparison for F36 vs G57 Power vs A17 vs Nord CE5, focusing on recurring negative user-review themes, warranty/seller quality, update support, display type, camera/OIS, storage expansion, battery and current stock. Produce a 10/10, 8/10 and 6/10 matrix and state the marginal price of each upgrade.
