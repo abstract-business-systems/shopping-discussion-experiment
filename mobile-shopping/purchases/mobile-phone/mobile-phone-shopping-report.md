@@ -13,11 +13,13 @@ A protector helps with scratches and minor impacts, but it does not make a phone
 
 ## What most closely fits the brief?
 
-### Updated decision after dropping eSIM
+### Updated decision after dropping eSIM and the final comparison round
+
+With eSIM removed and prices re-verified on 2026-10-11, the recommendation stands at **Samsung Galaxy F36 6/128 (Red) at ₹21,999** as the default buy, with the **Motorola G57 Power** as the battery-first equal-price alternative. The **Galaxy M36 Light Green listing at ₹14,360** is the one potential bargain worth verifying on its product page before ordering; the **Galaxy A36 at ₹25,999** is the stretch pick for a Snapdragon processor, and the M47 was rejected on weak ratings.
 
 With eSIM removed, the cost-effective shortlist can stay below ₹25,000. The strongest new candidate is **Motorola G57 Power 5G**, while Samsung remains stronger for display/software support.
 
-### Option 1 — Best all-round value: Samsung Galaxy F36 5G
+### Option 1 — Best all-round value (final): Samsung Galaxy F36 5G, Red 6/128 @ ₹21,999
 
 - Observed price: **₹21,999–₹24,499** on Flipkart, depending on RAM/colour/stock
 - Flipkart social proof: **4.3/5 from 12,879 ratings and 1,142 reviews** for one 6GB/128GB listing
@@ -26,7 +28,7 @@ With eSIM removed, the cost-effective shortlist can stay below ₹25,000. The st
 - Be careful about: one high-volume listing was unavailable; eSIM is not confirmed for the Indian SKU; inspect recent battery and heating complaints
 - Best for: a conservative, popular, expandable-storage purchase with a case and tempered glass
 
-### Option 2 — Best battery/popularity value: Motorola G57 Power 5G
+### Option 2 — Best battery/popularity value: Motorola G57 Power 5G, 8/128 @ ₹21,999
 
 - Observed price: **₹21,499–₹21,999**
 - Flipkart social proof: **4.4/5 from 57,889 ratings and 4,164 reviews**
@@ -35,7 +37,19 @@ With eSIM removed, the cost-effective shortlist can stay below ₹25,000. The st
 - Be careful about: LCD rather than AMOLED, Motorola's software/support story is less conservative than Samsung's, and no OIS was established in the listing
 - Best for: battery life, cost-effectiveness and popularity
 
-### Option 3 — Best sub-₹25k performance/popularity candidate: OnePlus Nord CE5
+### Option 3 — Potential bargain (verify first): Samsung Galaxy M36 5G, 6/128
+
+- Light Green Flipkart listing showed **₹14,360** (37% off with bank offer); Velvet Black ₹22,400 with only 1 unit left
+- Amazon Serene Green: ₹22,999, 4.1/5 from ~3.6K ratings, 1K+ bought in the past month
+- Claims Gorilla Glass Victus+ and a 50MP OIS triple camera; Exynos 1380-class platform
+- Verify the exact colour, stock and final price on the product page before ordering
+
+### Option 4 — Stretch pick: Samsung Galaxy A36 5G, 8/128 @ ₹25,999
+
+- 4.4/5 from 6,250 ratings and 1,114 reviews
+- Snapdragon 6 Gen 3 and a 12MP front camera; a ₹4,000 premium over the F36
+
+### Option 5 — Best sub-₹25k performance/popularity candidate: OnePlus Nord CE5
 
 - Observed price: **₹22,500** on Flipkart for 8GB/128GB, but unavailable in the snapshot; official OnePlus starting price is ₹24,999
 - Flipkart social proof: **4.5/5 from 12,664 ratings and 873 reviews**
@@ -44,7 +58,7 @@ With eSIM removed, the cost-effective shortlist can stay below ₹25,000. The st
 - Be careful about: eSIM, microSD, and built-in cover-glass details are not confirmed; verify stock and exact SKU
 - Best for: performance and battery when eSIM is optional
 
-### Option 4 — Best durability/performance candidate: Motorola Edge 60 Fusion
+### Option 6 — Best durability/performance candidate: Motorola Edge 60 Fusion
 
 - Normal observed price: roughly **₹28,700–₹30,000**; one ₹20,900 listing looked like an outlier
 - Social proof: roughly **4.2–4.3/5**, with listings ranging from about 128 to 1K ratings
@@ -53,7 +67,7 @@ With eSIM removed, the cost-effective shortlist can stay below ₹25,000. The st
 - Be careful about: curved display, third-party seller risk at the low price, and India-market eSIM uncertainty; do not count this as an eSIM phone without checking the exact unit
 - Best for: someone willing to raise the budget to about ₹30,000 for a stronger build and more performance
 
-### Option 5 — Best “covers nearly everything” higher-budget option: Samsung Galaxy S24 FE
+### Option 7 — Best “covers nearly everything” higher-budget option: Samsung Galaxy S24 FE
 
 - Observed price: approximately **₹39,999** for 8/128
 - Social proof: **4.5/5 from 77,805 ratings and 6,539 reviews** on Flipkart; Amazon also showed 4.4/5 on listings with lower visible counts
@@ -70,7 +84,9 @@ With eSIM removed, the cost-effective shortlist can stay below ₹25,000. The st
 - Be careful about: older hardware, lower battery/durability value than newer phones, and weak current marketplace social proof
 - Best for: eSIM at the lowest practical price, only if bought from an authorised seller with valid warranty
 
-## Samsung Galaxy A17 5G — sensible Samsung alternative
+## Samsung Galaxy A17 5G — backup Samsung alternative
+
+Note: the Samsung Galaxy M47 5G (₹26,999, 3.1/5 from 751 ratings) was examined and rejected at the social-proof gate.
 
 - Observed price: approximately **₹22,660** for 6GB/128GB on Flipkart
 - Social proof: **4.3/5 from 2,761 ratings and 244 reviews**
@@ -133,11 +149,11 @@ These are directional summaries of visible evidence, not a statistically complet
 
 ## Current decision
 
-- Best all-round under ₹25,000: **Samsung Galaxy F36 6/128**, subject to stock, seller and battery-review checks.
-- Best battery/popularity value: **Motorola G57 Power 5G 8/128**, around ₹22,000.
-- Best Samsung display/protection alternative: **Samsung Galaxy A17 6/128**, around ₹22,660.
-- Best performance/support if available: **OnePlus Nord CE5 8/128**, around ₹22,500 but unavailable in the captured Flipkart snapshot.
-- Higher-budget option is no longer necessary merely for eSIM; consider S24 FE only if you want its IP68/premium build and stronger overall platform.
+- Best all-round under ₹25,000: **Samsung Galaxy F36 6/128 Red at ₹21,999**, in stock with a bank offer at last check.
+- Equal-price battery alternative: **Motorola G57 Power 8/128 at ₹21,999**.
+- Verify the **Galaxy M36 Light Green listing at ₹14,360** before ordering; if genuine, it is the best value found.
+- Stretch pick at ₹25,999: **Galaxy A36 8/128** for Snapdragon performance.
+- Skip: M47 (3.1 stars) and Nord CE5 256GB at ₹40,999 (overpriced); CE5 8/128 remains out of stock.
 - If eSIM is non-negotiable and budget can reach ₹50,000: **Google Pixel 9a**.
 
 ## Marketplace popularity links

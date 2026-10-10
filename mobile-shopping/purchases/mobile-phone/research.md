@@ -142,6 +142,43 @@ A fresh Amazon/Flipkart pass added two stronger value candidates:
 3. **Samsung Galaxy A17 6/128** — best Samsung display/protection option, with lower performance.
 4. **OnePlus Nord CE5 8/128** — potentially best performance/battery, but unavailable in the captured Flipkart snapshot.
 
+## Final comparison round (2026-10-11, ~04:35 IST)
+
+Live Flipkart and Amazon snapshots confirmed prices and stock, and surfaced three new Samsung options.
+
+### Confirmed stock and prices
+
+- **Galaxy F36 6/128:** Red ₹21,999 in stock; Black ₹23,999 and Violet ₹25,499 with only 1 unit left each. Amazon 8/128 Black at ₹23,299 with a small 3.8-star sample (51 ratings) — Flipkart remains the better social-proof source for F36.
+- **Motorola G57 Power 8/128:** all three colours at ₹21,999, in stock, 4.4/5 from 57,889 ratings and 4,164 reviews.
+- **Galaxy A17 6/128:** Blue ₹22,660 in stock; Gray ₹23,969 (1 left); 8/128 ₹26,433.
+- **Nord CE5 8/128:** both colours still currently unavailable at ₹22,500; the 256GB listing at ₹40,999 is poor value.
+
+### New candidates this round
+
+- **Samsung Galaxy A36 5G 8/128:** ₹25,999, 4.4/5 from 6,250 ratings and 1,114 reviews, Snapdragon 6 Gen 3, 12MP front camera. A ~₹4,000 premium over the F36 buys a stronger processor and selfie camera, but it sits above the target band.
+- **Samsung Galaxy M36 5G 6/128:** Flipkart Velvet Black ₹22,400 (1 left); one Light Green listing showed **₹14,360 (37% off with bank offer)** — a possible clearance bargain that must be verified on the product page. Amazon Serene Green ₹22,999, 4.1/5 from ~3.6K ratings, 1K+ bought in the past month; claims Gorilla Glass Victus+ and 50MP OIS triple camera.
+- **Samsung Galaxy M47 5G:** ₹26,999 sponsored listing but only 3.1/5 from 751 ratings — rejected at the social-proof gate despite its spec sheet.
+
+### 10/10, 8/10 and 6/10 matrix
+
+Non-negotiables in every pass: credible social proof, trustworthy seller/warranty, stable brand support, India availability.
+
+| Pass | Candidate | Dropped vs full brief | Marginal price effect |
+|---|---|---|---|
+| 10/10 | Galaxy F36 6/128 @ ₹21,999 | none within the sub-₹25k band | baseline |
+| 10/10+ | Galaxy A36 8/128 @ ₹25,999 | none, adds Snapdragon 6 Gen 3 | +₹4,000 over F36 |
+| 8/10 | Motorola G57 Power 8/128 @ ₹21,999 | gives up AMOLED and OIS | ₹0 (same price, bigger battery) |
+| 8/10 | Galaxy A17 6/128 @ ₹22,660 | gives up processor performance | +₹661 over F36 |
+| 6/10 | Galaxy M36 6/128 @ ₹14,360 (unverified listing) | gives up verified stock/price certainty | −₹7,639 vs F36 if genuine |
+
+### Revised ranking
+
+1. **Galaxy F36 6/128 (Red) @ ₹21,999** — unchanged as the best all-round buy.
+2. **Motorola G57 Power 8/128 @ ₹21,999** — best battery/popularity; pick it if battery beats display quality.
+3. **Galaxy M36 6/128** — check the ₹14,360 Light Green listing first; if genuine, it beats everything on value.
+4. **Galaxy A36 8/128 @ ₹25,999** — the stretch pick if ₹4,000 more is acceptable.
+5. **Galaxy A17 6/128 @ ₹22,660** — only if the exact F36 stock disappears.
+
 ## Checks before checkout
 
 1. Confirm exact model number, RAM/storage, SIM tray layout, eSIM support, and whether a microSD card is supported.
