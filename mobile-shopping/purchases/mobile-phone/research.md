@@ -179,6 +179,28 @@ Non-negotiables in every pass: credible social proof, trustworthy seller/warrant
 4. **Galaxy A36 8/128 @ ₹25,999** — the stretch pick if ₹4,000 more is acceptable.
 5. **Galaxy A17 6/128 @ ₹22,660** — only if the exact F36 stock disappears.
 
+## Popularity-first filtered sweep (2026-10-11, ~05:10 IST)
+
+Method: Flipkart all-mobiles listing, sorted by popularity, availability filter (Exclude Out of Stock) applied, price band ₹15,000–₹30,000, non-Xiaomi brands only, then trust/social-proof gates.
+
+### Top 4 after non-negotiables and trust filters
+
+1. **Samsung Galaxy A36 5G 8/128 @ ₹25,999** — 4.4/5, 6,250 ratings (already on the shortlist).
+2. **OPPO K14x 5G 6/128 @ ₹21,999** — 4.3/5, 8,442 ratings and 1,001 reviews; Dimensity 6300, 6500mAh, 45W charging. New find; HD+ LCD and no OIS are the gaps.
+3. **realme P4 Lite 5G 6/128 @ ₹21,999** — 4.2/5, 15,151 ratings on the 4/128 variant; 7000mAh battery. New find; only a 13MP camera and HD+ display.
+4. **Samsung Galaxy S23 5G 8/128 @ ₹24,999** — 4.6/5, 78,802 ratings (clearance, from the previous round; still in stock 1–3 per colour).
+
+### Reduced (40%+ discount) pass
+
+- **Galaxy S23 5G @ ₹24,999 (72% off)** — best discount-quality combination found.
+- **Galaxy S25 FE 8/128 @ ₹46,999 (47% off)** — newer eSIM-class FE; above the working band, noted for completeness.
+- **HMD Vibe2 5G 4/128 @ ₹11,999 (40% off)** — 4.5/5, 5,725 ratings; budget tier, 4GB RAM below preference.
+- Rejected at the social-proof gate: BOLTT ACE (4.8★ but only 69 ratings), Ai+ Nova 2 Neo (unknown brand trust).
+
+### Alignment with the existing shortlist
+
+The popularity sweep confirms the existing trio — F36 ₹21,999, G57 Power ₹21,999, S23 ₹24,999 — still leads on the combined trust + social-proof + value score. The new entries (K14x, P4 Lite) are battery-strong but display/camera-weak, so they slot in below the F36 and G57 Power. Nothing displaced the current recommendation; the genuinely new information is that OPPO K14x and realme P4 Lite are now credible sub-₹22k battery alternatives if stock of the leaders disappears.
+
 ## Checks before checkout
 
 1. Confirm exact model number, RAM/storage, SIM tray layout, eSIM support, and whether a microSD card is supported.
