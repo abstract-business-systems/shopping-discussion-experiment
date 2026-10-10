@@ -5,6 +5,9 @@
 - India-market phone, preferably available through Amazon India or Flipkart.
 - Target price: **under ₹25,000**; treat ₹25,000–₹27,000 as an exception only if the value is compelling.
 - Avoid Xiaomi/Redmi/Poco because of prior reliability experience.
+- **Extended exclusions (2026-10-11):** also avoid the OPPO/BBK family — OPPO, realme, OnePlus, vivo, iQOO — and weak-evidence brands (Ai+, BOLTT, Infinix, Tecno). OnePlus was on the original cart; confirm if it should be reinstated. Trusted brands are now Samsung, Motorola and Google, with HMD/Nokia allowed but scrutinized.
+- **Robust connectivity (2026-10-11):** the phone must hold a stable Wi-Fi connection through walls; the user's Poco connected weakly from other rooms. This is hard to verify from spec sheets, so rely on brand reputation and test within the marketplace return window.
+- eSIM requirement dropped (2026-10-11): not worth ₹10k–₹15k extra.
 - Prefer a stable, well-supported brand and model rather than maximum specifications.
 
 ## Strong preferences
@@ -12,7 +15,7 @@
 - Around 6–8 GB RAM and 128 GB storage is sufficient.
 - A built-in Gorilla Glass panel is a bonus, not a must-have: an external tempered-glass protector and proper case are acceptable protection.
 - Prefer a genuinely durable build: IP rating, reinforced frame/display, and/or credible durability testing.
-- eSIM support is desirable for travel.
+- eSIM support is desirable for travel but no longer drives the budget.
 - microSD/external storage is desirable but not mandatory if the phone has reliable 128 GB storage.
 
 ## Decision priorities
