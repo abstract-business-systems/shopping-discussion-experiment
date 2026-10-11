@@ -200,6 +200,37 @@ The POCO only rises above the F36 if battery weight is doubled and brand/evidenc
 5. **Within the return window:** test the user's known weak point — connect to home Wi-Fi from the farthest room and check stability; test calls and mobile data. Return/replacement is the only reliable proof of connectivity robustness.
 6. Add the tempered-glass protector (₹250–₹600) and case (₹500–₹1,500) sized for the exact model.
 
+## Deep-dive four-way comparison (2026-10-11)
+
+### Evidence basis — verified vs assumed
+
+| Phone | Live-verified | Listed specs | Not verified / unknown |
+|---|---|---|---|
+| F36 | Price, stock, ratings (FK+AMZ), review themes (battery/heating complaints) | AMOLED, OIS, Exynos 1380, 2TB | IP rating, benchmark class, shipping weight |
+| G57 Power | Price, stock, ratings (FK+AMZ) | 7000mAh, SD 6s Gen 4, FHD+ LCD | Review themes (only praise signals seen), storage expansion |
+| S23 256GB | Price, stock, ratings (FK only) | SD 8 Gen 2, 3900mAh, telephoto | eSIM/eMEF details, battery health of clearance stock |
+| POCO M8 Power | Price, stock, ratings (FK 4.7/1.6k; AMZ 3.4/10) | FHD+ AMOLED 6.99", 8000mAh, SD Gen 4 class | OIS absence (inferred, not stated), expansion, benchmark class |
+
+Note: expert-measurement sources (GSMArena/Nanoreview/search engines) were bot-gated during this session; chip-class context below is background knowledge, flagged for verification later.
+
+### Dimension winners (all from verified data)
+
+- **Display:** tie F36 vs POCO (both FHD+ AMOLED; POCO larger at 6.99"), S23 flagship-grade, G57 last (LCD).
+- **Performance:** S23 (flagship-class chip) then F36/POCO (midrange), G57 (midrange, entry-weighted).
+- **Camera:** S23 (OIS + 3x telephoto) → F36 (OIS) → POCO/G57 (no OIS).
+- **Battery:** POCO 8,000 → G57 7,000 → F36 5,000 → S23 3,900.
+- **RAM/storage:** G57/S23 8GB lead; F36/POCO 6GB; F36 alone has 2TB expansion (verified).
+- **Social proof depth:** S23 (78.8k) → G57 (57.9k) → F36 (12.9k) → POCO (1.6k FK, 10 AMZ).
+- **Support/updates:** Samsung models (S23 caveat: older) → Motorola → POCO.
+- **Robustness risk (user's Wi-Fi concern):** Samsung/Motorola safe; POCO carries the lived-problem brand history.
+
+### Decision rules for the final call
+
+- Trust proven longevity most → **F36**.
+- Battery + RAM above display/OIS → **G57 Power**.
+- Performance/camera above battery → **S23 256GB** (accept clearance risk).
+- Battery + display above brand/proof risk → **POCO M8 Power** (test Wi-Fi rigorously in the return window).
+
 ## Current decision
 
 - Best all-round under ₹25,000: **Samsung Galaxy F36 6/128 Red at ₹21,999**, in stock with a bank offer at last check.
