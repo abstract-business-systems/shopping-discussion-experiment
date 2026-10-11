@@ -147,6 +147,25 @@ These are directional summaries of visible evidence, not a statistically complet
 5. **Reject vendor-only claims:** manufacturer benchmark numbers are useful context but should not outweigh sustained independent tests and user experience.
 6. **Recheck immediately before buying:** marketplace prices, sellers, stock and reviews change.
 
+## Final three and the brand-premium trade-off (2026-10-11)
+
+### Final three for the closing comparison
+
+| Phone | Price | Social proof | The case | The sacrifice |
+|---|---|---|---|---|
+| Samsung F36 6/128 | ₹21,999 | 4.3★/12,879 | AMOLED, OIS, 2TB expandable, Samsung service | Battery and RAM at the price |
+| Motorola G57 Power 8/128 | ₹21,999 | 4.4★/57,889 | 7000mAh, 8GB RAM, biggest proven popularity | LCD, no OIS, shorter update story |
+| Samsung S23 256GB | ₹26,499 | 4.6★/78,802 | Flagship chip, telephoto OIS camera, 256GB, best deal per rupee found | 3900mAh battery, ~3 update years left, 1–2 units per colour |
+
+### Brand premium vs blacklisted brands
+
+At the ~₹22k tier, blacklisted brands (Xiaomi/POCO, OPPO/realme/OnePlus) sell the same price or slightly more for bigger batteries and faster charging, while giving up HD+ LCD, OIS, update years and service confidence. The trusted-brand premium is therefore roughly **₹0–₹4,000 at most — and ₹0 in practice at the flagship tier** (S23 256GB at ₹26,499 undercuts the OnePlus N6 6/128 at ₹26,700–₹27,870 while being stronger on every axis except battery).
+
+Evidence: OPPO K14x 6/128 ₹21,999 (4.3/8,442; 6500mAh, 45W, HD+ LCD, no OIS); realme P4 Lite 6/128 ₹21,999 (4.2; 7000mAh, 13MP camera); POCO M8 Power 6/128 ₹22,999 (4.7 but only 1,558 ratings); OnePlus N6 4/128 ₹22,515 (4.1/963, only few left) and 6/128 ₹26,700–27,870 (4.2/928).
+
+What blacklisting costs: ~2,000mAh of battery capacity and ~10–20W of charging speed at the same price.
+What blacklisting protects: display quality, camera stabilization, update longevity, service network, and proven rating volume (12.9k–78.8k vs 0.9k–8.4k).
+
 ## Current decision
 
 - Best all-round under ₹25,000: **Samsung Galaxy F36 6/128 Red at ₹21,999**, in stock with a bank offer at last check.
