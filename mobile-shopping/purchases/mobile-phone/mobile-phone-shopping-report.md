@@ -166,6 +166,22 @@ Evidence: OPPO K14x 6/128 ₹21,999 (4.3/8,442; 6500mAh, 45W, HD+ LCD, no OIS); 
 What blacklisting costs: ~2,000mAh of battery capacity and ~10–20W of charging speed at the same price.
 What blacklisting protects: display quality, camera stabilization, update longevity, service network, and proven rating volume (12.9k–78.8k vs 0.9k–8.4k).
 
+## Final four-way comparison (2026-10-11)
+
+| | F36 6/128 | G57 Power 8/128 | S23 256GB | POCO M8 Power 6/128 |
+|---|---|---|---|---|
+| Price | ₹21,999 | ₹21,999 | ₹26,499 | ₹22,999 |
+| Display | 6.7" FHD+ AMOLED | 6.72" FHD+ LCD | 6.1" flagship AMOLED | 6.99" FHD+ AMOLED |
+| Chip | Exynos 1380 | SD 6s Gen 4 | SD 8 Gen 2 (flagship) | SD Gen 4 class |
+| Camera | 50MP OIS + UW | 50MP, no OIS | 50MP OIS + 3x tele | 50MP, no OIS |
+| Battery | 5,000mAh | 7,000mAh | 3,900mAh | **8,000mAh** |
+| Social proof | 4.3/12.9k | 4.4/57.9k | 4.6/78.8k | 4.7/1.6k FK, 3.4/10 AMZ |
+| Brand risk | None | None | None | Xiaomi-family robustness history |
+
+Weighted decision score (social 25, support 25, durability 15, battery 15, camera/display 10, price 10): **F36 81.0, G57 Power 79.0, S23 71.5, POCO 60.5.**
+
+The POCO only rises above the F36 if battery weight is doubled and brand/evidence weights are halved — i.e., only if the user consciously prefers specs over proven longevity and connectivity robustness.
+
 ## Current decision
 
 - Best all-round under ₹25,000: **Samsung Galaxy F36 6/128 Red at ₹21,999**, in stock with a bank offer at last check.
