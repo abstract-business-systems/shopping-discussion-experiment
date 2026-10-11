@@ -182,6 +182,24 @@ Weighted decision score (social 25, support 25, durability 15, battery 15, camer
 
 The POCO only rises above the F36 if battery weight is doubled and brand/evidence weights are halved — i.e., only if the user consciously prefers specs over proven longevity and connectivity robustness.
 
+## Final decision card and purchase checklist (2026-10-11)
+
+### Decision card
+
+- **Default buy:** Samsung Galaxy F36 5G, Red, 6/128 — ₹21,999 on Flipkart (score 81.0; best balance of evidence, display, camera, support and zero brand risk).
+- **Pick instead if battery > display:** Motorola G57 Power 8/128 — ₹21,999 (score 79.0; 7,000mAh, 8GB, 57.9k-rating proof).
+- **Pick if performance/camera > battery:** Samsung S23 5G, Green/Cream, 256GB — ₹26,499 (score 71.5; flagship, top social proof; small battery, ~3 update years left, 1–2 units/colour).
+- **Pick only if specs consciously beat brand risk:** POCO M8 Power 6/128 — ₹22,999 (score 60.5; 8,000mAh + FHD+ AMOLED; thin cross-marketplace evidence, Xiaomi-family robustness history).
+
+### Purchase checklist (applies to whichever phone is chosen)
+
+1. Open the exact colour/variant product page; confirm model number, 1-year manufacturer warranty and seller identity.
+2. Confirm the price at checkout (bank offers can differ from listing price; exchange value is separate).
+3. Screenshot/PDF the listing showing model number, price, seller and warranty before ordering.
+4. On delivery: verify the box seal, IMEI on box vs phone (*#06#), and register the warranty.
+5. **Within the return window:** test the user's known weak point — connect to home Wi-Fi from the farthest room and check stability; test calls and mobile data. Return/replacement is the only reliable proof of connectivity robustness.
+6. Add the tempered-glass protector (₹250–₹600) and case (₹500–₹1,500) sized for the exact model.
+
 ## Current decision
 
 - Best all-round under ₹25,000: **Samsung Galaxy F36 6/128 Red at ₹21,999**, in stock with a bank offer at last check.
