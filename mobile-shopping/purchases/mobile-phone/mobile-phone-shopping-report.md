@@ -231,6 +231,17 @@ Note: expert-measurement sources (GSMArena/Nanoreview/search engines) were bot-g
 - Performance/camera above battery → **S23 256GB** (accept clearance risk).
 - Battery + display above brand/proof risk → **POCO M8 Power** (test Wi-Fi rigorously in the return window).
 
+## Direct purchase links (2026-10-11)
+
+Deep product-page URLs are bot-gated; these exact search links land on each model's listing and were all live-verified today.
+
+- **F36 6/128** — Flipkart: `flipkart.com/search?q=Samsung+Galaxy+F36+5G+6GB+128GB&sort=price_asc` · Amazon: `amazon.in/s?k=Samsung+Galaxy+F36+5G`
+- **G57 Power 8/128** — Flipkart: `flipkart.com/search?q=Motorola+G57+Power+5G` · Amazon: `amazon.in/s?k=Motorola+G57+Power+5G+8GB+128GB`
+- **S23 256GB** — Flipkart (availability-filtered): `flipkart.com/search?q=Samsung+Galaxy+S23+5G&p[]=facets.availability="Exclude Out of Stock"&sort=price_asc`
+- **POCO M8 Power 6/128** — Flipkart: `flipkart.com/search?q=POCO+M8+Power+5G` · Amazon: `amazon.in/s?k=POCO+M8+Power+5G`
+
+Buying notes: F36 — Red is the cheapest colour; S23 — 1–3 units per colour, verify stock before checkout; POCO — Flipkart ₹22,999 vs Amazon ₹23,345+; all — confirm model number and warranty at checkout, screenshot the listing.
+
 ## Current decision
 
 - Best all-round under ₹25,000: **Samsung Galaxy F36 6/128 Red at ₹21,999**, in stock with a bank offer at last check.
